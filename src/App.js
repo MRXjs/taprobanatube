@@ -10,7 +10,7 @@ import {
 } from "./components/index";
 
 const App = () => (
-  <BrowserRouter>
+  <BrowserRouter basename="/taprobanatube">
     <Box sx={{ backgroundColor: "#000" }}>
       <Navbar />
       <Routes>
