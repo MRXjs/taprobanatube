@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/taprobanatube/static/css/main.b3a4dc71.css",
+    "main.js": "/taprobanatube/static/js/main.59cd9c88.js",
+    "static/media/logo.png": "/taprobanatube/static/media/logo.431693df44fb0b4e5a9e.png",
+    "static/media/logoc.jpg": "/taprobanatube/static/media/logoc.cfae953e5b14eb4ca16d.jpg",
+    "index.html": "/taprobanatube/index.html",
+    "main.b3a4dc71.css.map": "/taprobanatube/static/css/main.b3a4dc71.css.map",
+    "main.59cd9c88.js.map": "/taprobanatube/static/js/main.59cd9c88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3a4dc71.css",
+    "static/js/main.59cd9c88.js"
+  ]
+}
